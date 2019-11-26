@@ -1,0 +1,6 @@
+11516 Terms in older release.
+11650 Terms in newer release.
+1 Deleted IDs.
+135 New IDs.
+8453 Unchanged terms.
+3062 Terms with changes.
